@@ -7,3 +7,5 @@
 
 <img src="https://github.com/user-attachments/assets/c98be621-b299-4eb6-af6b-112b57368267" width="400px">
 选择解压缩文件，即可使用
+#使用效果（从二十多个标签页缩减至五六个）
+![image](https://github.com/user-attachments/assets/bbfbb4fc-577b-4901-b46f-bdacd45f258c)
